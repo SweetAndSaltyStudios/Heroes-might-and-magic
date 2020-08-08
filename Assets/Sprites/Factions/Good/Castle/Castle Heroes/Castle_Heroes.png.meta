@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: d261c681ac94759428d7d0fc509cbaf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1727090106557019504
+    second: Castle_Heroes_0
+  - first:
+      213: 8233350210766170346
+    second: Castle_Heroes_1
+  - first:
+      213: -1867009740092814001
+    second: Castle_Heroes_2
+  - first:
+      213: -6245484844884474445
+    second: Castle_Heroes_3
+  - first:
+      213: 1293484810549241267
+    second: Castle_Heroes_4
+  - first:
+      213: 4870241164847822153
+    second: Castle_Heroes_5
+  - first:
+      213: 6708237627384621773
+    second: Castle_Heroes_6
+  - first:
+      213: -8746235457812026380
+    second: Castle_Heroes_7
+  - first:
+      213: 2261232948656064723
+    second: Castle_Heroes_8
+  - first:
+      213: -7848583340658583345
+    second: Castle_Heroes_9
+  - first:
+      213: -9120807312905618856
+    second: Castle_Heroes_10
+  - first:
+      213: 5220314544512047407
+    second: Castle_Heroes_11
+  - first:
+      213: -459952913605472290
+    second: Castle_Heroes_12
+  - first:
+      213: -4586234263126891324
+    second: Castle_Heroes_13
+  - first:
+      213: 67555273920755428
+    second: Castle_Heroes_14
+  - first:
+      213: -530059173282933336
+    second: Castle_Heroes_15
+  - first:
+      213: 4574837351685776289
+    second: Castle_Heroes_16
+  - first:
+      213: 1843713437681715644
+    second: Castle_Heroes_17
+  - first:
+      213: -2124801819259156399
+    second: Castle_Heroes_18
+  - first:
+      213: -8863871065246628674
+    second: Castle_Heroes_19
+  - first:
+      213: 8788112571393888931
+    second: Castle_Heroes_20
+  - first:
+      213: -4396095461523578916
+    second: Castle_Heroes_21
+  - first:
+      213: 8777260271219959442
+    second: Castle_Heroes_22
+  - first:
+      213: 5367466005226678790
+    second: Castle_Heroes_23
+  - first:
+      213: -8252253503220265458
+    second: Castle_Heroes_24
+  - first:
+      213: -5373537752427363126
+    second: Castle_Heroes_25
+  - first:
+      213: 2980500058031574379
+    second: Castle_Heroes_26
+  - first:
+      213: 3256315146371972071
+    second: Castle_Heroes_27
+  - first:
+      213: 3086974115740617626
+    second: Castle_Heroes_28
+  - first:
+      213: 7729377355402867452
+    second: Castle_Heroes_29
+  - first:
+      213: -4170669219094988841
+    second: Castle_Heroes_30
+  - first:
+      213: -6203377263659439442
+    second: Castle_Heroes_31
+  - first:
+      213: -8221768248721594683
+    second: Castle_Heroes_32
+  - first:
+      213: 8640200714798879824
+    second: Castle_Heroes_33
+  - first:
+      213: -1037274933989370963
+    second: Castle_Heroes_34
+  - first:
+      213: 2853006750608622107
+    second: Castle_Heroes_35
+  - first:
+      213: 3776126841811243794
+    second: Castle_Heroes_36
+  - first:
+      213: 34634673046323984
+    second: Castle_Heroes_37
+  - first:
+      213: 8370807405923539723
+    second: Castle_Heroes_38
+  - first:
+      213: 8141301954898548948
+    second: Castle_Heroes_39
+  - first:
+      213: -1889515109159602133
+    second: Castle_Heroes_40
+  - first:
+      213: 7186639890457240940
+    second: Castle_Heroes_41
+  - first:
+      213: -4919459638853226296
+    second: Castle_Heroes_42
+  - first:
+      213: 6163538031885690791
+    second: Castle_Heroes_43
+  - first:
+      213: -4427232375971756688
+    second: Castle_Heroes_44
+  - first:
+      213: -8677902843201865357
+    second: Castle_Heroes_45
+  - first:
+      213: -2387678129949603681
+    second: Castle_Heroes_46
+  - first:
+      213: 3487457050720566214
+    second: Castle_Heroes_47
+  - first:
+      213: -293706373588412877
+    second: Castle_Heroes_48
+  - first:
+      213: 5144274375738319811
+    second: Castle_Heroes_49
+  - first:
+      213: 1784848070278686121
+    second: Castle_Heroes_50
+  - first:
+      213: -2604100166378422704
+    second: Castle_Heroes_51
+  - first:
+      213: -750193513026144745
+    second: Castle_Heroes_52
+  - first:
+      213: 8615881449277351685
+    second: Castle_Heroes_53
+  - first:
+      213: -739884729350321840
+    second: Castle_Heroes_54
+  - first:
+      213: 3734754397694134925
+    second: Castle_Heroes_55
+  - first:
+      213: -439331270229548436
+    second: Castle_Heroes_56
+  - first:
+      213: -7003108924510441809
+    second: Castle_Heroes_57
+  - first:
+      213: 8290163892668957576
+    second: Castle_Heroes_58
+  - first:
+      213: -7733411804816417586
+    second: Castle_Heroes_59
+  - first:
+      213: -7402064260338351726
+    second: Castle_Heroes_60
+  - first:
+      213: -627114360587033203
+    second: Castle_Heroes_61
+  - first:
+      213: -5818822826424678773
+    second: Castle_Heroes_62
+  - first:
+      213: -1677320906831925766
+    second: Castle_Heroes_63
+  - first:
+      213: -2353877403351770926
+    second: Castle_Heroes_64
+  - first:
+      213: 7289196164030344691
+    second: Castle_Heroes_65
+  - first:
+      213: -7087929353322459206
+    second: Castle_Heroes_66
+  - first:
+      213: 3492194688573489307
+    second: Castle_Heroes_67
+  - first:
+      213: 8101627620226280642
+    second: Castle_Heroes_68
+  - first:
+      213: 1201740286565460049
+    second: Castle_Heroes_69
+  - first:
+      213: -2088248728640660837
+    second: Castle_Heroes_70
+  - first:
+      213: 5337960322219734338
+    second: Castle_Heroes_71
+  - first:
+      213: 3388662525404074712
+    second: Castle_Heroes_72
+  - first:
+      213: 9008896087465501317
+    second: Castle_Heroes_73
+  - first:
+      213: -3530944568322949154
+    second: Castle_Heroes_74
+  - first:
+      213: 6934293237574765997
+    second: Castle_Heroes_75
+  - first:
+      213: 937101384559300708
+    second: Castle_Heroes_76
+  - first:
+      213: -3759147402109269014
+    second: Castle_Heroes_77
+  - first:
+      213: 309408130877996058
+    second: Castle_Heroes_78
+  - first:
+      213: -984614967798534534
+    second: Castle_Heroes_79
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Castle_Heroes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799872c7831aaa4e9af71b43de2d381
+      internalID: -1727090106557019504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 62
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ae228fbb509ff44b15d28bd9cbf443
+      internalID: 8233350210766170346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 62
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffcbd25bce677479edc12d5592b017
+      internalID: -1867009740092814001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 62
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399bfd61faf6bb4a874790f9929efc6
+      internalID: -6245484844884474445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 62
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6937300e5a1e8145924440cfdc10ee7
+      internalID: 1293484810549241267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143412e4fd829e6448ce9786af0d7b15
+      internalID: 4870241164847822153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 62
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5e629550d2a941b6d46beb5630ce3
+      internalID: 6708237627384621773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 29
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1faee2858b8694daee011592f40cc6
+      internalID: -8746235457812026380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_8
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 28
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bbf1af03d2124daa799f22016c5c6
+      internalID: 2261232948656064723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 62
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf936f4615f02654c8ff190a1a876aed
+      internalID: -7848583340658583345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_10
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090944430d936724ea1d3985b2fccc42
+      internalID: -9120807312905618856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_11
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e1f9596855124db9597b47b09c323
+      internalID: 5220314544512047407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_12
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f1a8103eff3934aa22c4b05eca2943
+      internalID: -459952913605472290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_13
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 62
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d3e7caf5680b4d91506ecf7d20173
+      internalID: -4586234263126891324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_14
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 62
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b5dd0bed44274ca05f410e26766f3
+      internalID: 67555273920755428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_15
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 0
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b5a2c353034f4dbfee1c81276c148
+      internalID: -530059173282933336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_16
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5986141e3a158b14ba90e3cf7c2e6bf3
+      internalID: 4574837351685776289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ebc3f4788bcb4449fd53e6b1776dc0
+      internalID: 1843713437681715644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_18
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 62
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed060cd0823a33b4787195cbd91c45c0
+      internalID: -2124801819259156399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_19
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 62
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1078a25666dd2642ad31a26999a028d
+      internalID: -8863871065246628674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_20
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 62
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9857509bac83ee4daed13bae8a8565c
+      internalID: 8788112571393888931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_21
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 62
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe72eba2a0a994da64ddf8a8eefdee
+      internalID: -4396095461523578916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_22
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 62
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f64d9dfa9b0d9439628b44fbb1f767
+      internalID: 8777260271219959442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_23
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 62
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70633ee5c8727464aaeed01836f4139f
+      internalID: 5367466005226678790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_24
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 62
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2669eb6f46dd2094e8998374b52fa774
+      internalID: -8252253503220265458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_25
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 62
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc35dabb1f0f5148ad5ca1e4eff0c98
+      internalID: -5373537752427363126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_26
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 62
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08fcefb8decbe847ab34337ba6794a8
+      internalID: 2980500058031574379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_27
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 62
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6685555f7ba06494d9dbaeddf547e565
+      internalID: 3256315146371972071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_28
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 62
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278c3dee2d28844988b7e6a901adad3
+      internalID: 3086974115740617626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_29
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 62
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ab918eac97e746b185f12d7c56a24
+      internalID: 7729377355402867452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_30
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 62
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d312fa1f1f6149bdbe152545a9b52
+      internalID: -4170669219094988841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_31
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 0
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57cbffac325c64ea36d1904525f351
+      internalID: -6203377263659439442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_32
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 0
+        width: 45
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30cb03428a067344b1d8562a7a69e77
+      internalID: -8221768248721594683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_33
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 0
+        width: 44
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f250de260dbc9024c8f40a3063f6639f
+      internalID: 8640200714798879824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_34
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 62
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf67a2d4910144ab67f77a576e3373
+      internalID: -1037274933989370963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_35
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 62
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b935af4ae2031489884267e4b92ebe
+      internalID: 2853006750608622107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_36
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 62
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbcc02de51b1374c969545034045c40
+      internalID: 3776126841811243794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_37
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e3e0e54dbcf241a01e4231750ab4e
+      internalID: 34634673046323984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_38
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da333fc248bfa498aa9adbc1dfa06f
+      internalID: 8370807405923539723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_39
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40396a0f4bcac0949884102ac083e8ef
+      internalID: 8141301954898548948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_40
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 0
+        width: 29
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10a0149cfb26540a9e52430d465481
+      internalID: -1889515109159602133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_41
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 0
+        width: 29
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d14e177f33ab54cb3de2d98543f118
+      internalID: 7186639890457240940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_42
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 62
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac7d8304ebed240a29d9840eea2a74
+      internalID: -4919459638853226296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_43
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 62
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc5ca3de75adbd4399d1bf3cc43082c
+      internalID: 6163538031885690791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_44
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 62
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c792dad87db68488d5f33f0263e7f3
+      internalID: -4427232375971756688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69eee4daec1f974faf9659c35aaa557
+      internalID: -8677902843201865357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedfdfb12b4b4dc4d91041861dbdec67
+      internalID: -2387678129949603681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ff980953a5904b887956382671e3b
+      internalID: 3487457050720566214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f335e544b5752845aa3bfe1c059e9c1
+      internalID: -293706373588412877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921a7c695293f7247a05657d47752538
+      internalID: 5144274375738319811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779e52e42a52834aa66e63d072084ce
+      internalID: 1784848070278686121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_51
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc2f053c672734cbf9c829bcd76881
+      internalID: -2604100166378422704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_52
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c188e816e6627498c452c3248d65b3
+      internalID: -750193513026144745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_53
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab278bd94f45a9543a93324897fcc7e7
+      internalID: 8615881449277351685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_54
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c80e16af476a2f40bf0d8cb847a03b8
+      internalID: -739884729350321840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_55
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f84582da3347478dbfab5484b867e
+      internalID: 3734754397694134925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_56
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42931a0add95a194b8d2b821f9856c8c
+      internalID: -439331270229548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_57
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07ac0244e7c3b4cbddff0b97acc7ab
+      internalID: -7003108924510441809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_58
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f03ca33002dd44ac8272cb6490e70
+      internalID: 8290163892668957576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_59
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c753e6a4d4d54d838525ed06193be
+      internalID: -7733411804816417586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_60
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 0
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912744f2b8d619a4c887ecae02283367
+      internalID: -7402064260338351726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_61
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e80c3b254d184cb9a0296447bed0c
+      internalID: -627114360587033203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_62
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 0
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb148f44d6ceff438ea73aa1f71b970
+      internalID: -5818822826424678773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_63
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 0
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da55df52a00549845a0464c82af01a69
+      internalID: -1677320906831925766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_64
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 0
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74836867be2f5d9469c6671550393bc0
+      internalID: -2353877403351770926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_65
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 0
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab7ea47c04f6e47ae9e8885cfa4547
+      internalID: 7289196164030344691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_66
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 0
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bbbf01e255a614bb0097139014f6e3
+      internalID: -7087929353322459206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_67
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 0
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec698585f0cf534798281d9c89a0704
+      internalID: 3492194688573489307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_68
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 0
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790ff8d36c2412749bc082f5aecd3b07
+      internalID: 8101627620226280642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_69
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84468256379b80a4cb9acd4a2f97ef87
+      internalID: 1201740286565460049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_70
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5a3dce0059ae469740755eae79edf
+      internalID: -2088248728640660837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_71
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1fba67a84608a40bfb2ddbc8e8eb5c
+      internalID: 5337960322219734338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_72
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86631b6f92640344099499db170cecb3
+      internalID: 3388662525404074712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_73
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 0
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a6bafe2ecf85448bb49e2149e23cb
+      internalID: 9008896087465501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_74
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893585dbc07fcac47b67f28a2f2ce43e
+      internalID: -3530944568322949154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_75
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 0
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70acac24acd8d1843863c2e919298725
+      internalID: 6934293237574765997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_76
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 0
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f4a45d2e72bf4bbffb80326915ca2
+      internalID: 937101384559300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_77
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ac95c509920f48b25169fa58e98a2
+      internalID: -3759147402109269014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_78
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 0
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2930a973f470999498378d67d23e5b1a
+      internalID: 309408130877996058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castle_Heroes_79
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93909b1770625545825dce0a80506ed
+      internalID: -984614967798534534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
